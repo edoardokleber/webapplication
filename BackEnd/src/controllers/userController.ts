@@ -19,7 +19,7 @@ export default {
             password: "password"
         }
 
-        userModel.create(user);
+        await userModel.create(user);
 
         console.log("create finished!");
 
