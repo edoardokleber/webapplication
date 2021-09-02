@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es6",
+      "rootDir": "./",
+      "outDir": "./dist",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "moduleResolution": "node",
+    }
+  }
